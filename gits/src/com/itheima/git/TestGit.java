@@ -12,4 +12,7 @@ public class TestGit {
         System.out.println("git!");
         System.out.println("git!");
     }
+    public  void    test(){
+        int i=10;
+    }
 }
